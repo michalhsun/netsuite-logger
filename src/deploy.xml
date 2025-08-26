@@ -1,0 +1,14 @@
+<deploy>
+    <files>
+        <path>~/FileCabinet/SuiteScripts/HSUN/HSUNserverLogger.js</path>
+        <path>~/FileCabinet/SuiteScripts/HSUN/Script Templates/ClientScript 2.x with logger.js</path>
+        <path>~/FileCabinet/SuiteScripts/HSUN/Script Templates/Map Reduce 2.x with logger.js</path>
+        <path>~/FileCabinet/SuiteScripts/HSUN/Script Templates/RestLet 2.x with logger.js</path>
+        <path>~/FileCabinet/SuiteScripts/HSUN/Script Templates/SuiteLet 2.x with logger.js</path>
+        <path>~/FileCabinet/SuiteScripts/HSUN/Script Templates/UserEvent 2.x with logger.js</path>
+    </files>
+    <objects>
+        <path>~/Objects/custrecord_hsun_emailscriptlogto.xml</path>
+        <path>~/Objects/custrecord_hsun_systemagent.xml</path>
+    </objects>
+</deploy>
